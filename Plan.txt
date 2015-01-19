@@ -1,0 +1,32 @@
+Calculate The Room
+
+The challenge is to write a program that takes as input the dimensions of a room and outputs the following:
+
+
+Area of the floor
+Amount of paint required to paint the walls
+Volume of the room
+
+Upon reading this challenge i saw it as an opportunity to refresh my programming ability with java. 
+
+This tree structure will be used to help me work through the program in an organized fashion allowing me to go back and re-check what steps need to be covered. 
+
+1.  How many simple shapes make up the room?
+  Select shapes that make the floor space
+    Dimensions of shapes
+
+2. How many walls?
+  Dimensions
+  How many windows?
+    Dimensions of windows?
+  How many doors? 
+    Dimensions of doors?
+
+3.  Floor area
+    height of the room
+
+4.  Room volume 
+    Has Floor area been calulated?
+      Calulate Volume
+      
+      
