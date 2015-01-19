@@ -1,0 +1,20 @@
+Math Notes:
+
+Circle 
+Area = π × r2 
+Circumference = 2 × π × r
+r = radius
+
+Rectangle 
+Area = w × h
+w = width
+h = height
+
+
+Triangle
+Area = ½ × b × h
+b = base
+h = vertical height
+
+Volume of room
+Volume = Area of floor x Height
